@@ -1,0 +1,56 @@
+body {background-color: powderblue;}
+h1   {
+    text-align: center;
+    color: #458588
+    overflow: hidden;
+    white-space: nowrap;
+}
+.calculator {
+    position: absolute;
+    top:50%;
+    display: none;
+}
+body {
+    background-image: url("images/back.JPG");
+    background-color: #1d2021;
+    max-width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    overflow: none;
+    color: #ebdbb2;
+}
+html {
+    font-family: 'Source Code Pro', monospace;
+}
+.bulb{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    display: none;
+}
+.email {
+  position: fixed;
+  left: 50%;
+  bottom: 15px;
+  transform: translate(-50%, -50%);
+  margin: 0 auto;
+}
+
+a {
+  color: #8ec07c;;
+}
+.lily{
+  position: absolute;
+  right: 15px;
+  top: 25px;
+}
+
+li{
+  margin: 10px 0;
+}
+
+.list{
+  position: absolute;
+  top: 25%;
+}
