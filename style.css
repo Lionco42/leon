@@ -46,7 +46,7 @@ html {
 }
 
 a {
-  color: #8ec07c;;
+  color: #8ec07c;
 }
 .lily{
   position: absolute;
@@ -65,4 +65,8 @@ li{
 
 .url{
 	font-size: 17px;
+}
+
+a{
+	text-decoration: none;
 }
